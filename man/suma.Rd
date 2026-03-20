@@ -3,7 +3,7 @@
 \title{suma de dos variables}
 
 \usage{
-suma(x)
+suma(x,y)
 }
 
 \arguments{
